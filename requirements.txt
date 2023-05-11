@@ -1,2 +1,0 @@
-streamlit==0.89.0
-clipboard==0.0.4
